@@ -1,0 +1,15 @@
+C:\Users\alexs\Documents\Обучение\Языки программирования\Лекция 1\Пример 2\bin\Debug\net7.0\Пример 2.exe
+C:\Users\alexs\Documents\Обучение\Языки программирования\Лекция 1\Пример 2\bin\Debug\net7.0\Пример 2.deps.json
+C:\Users\alexs\Documents\Обучение\Языки программирования\Лекция 1\Пример 2\bin\Debug\net7.0\Пример 2.runtimeconfig.json
+C:\Users\alexs\Documents\Обучение\Языки программирования\Лекция 1\Пример 2\bin\Debug\net7.0\Пример 2.dll
+C:\Users\alexs\Documents\Обучение\Языки программирования\Лекция 1\Пример 2\bin\Debug\net7.0\Пример 2.pdb
+C:\Users\alexs\Documents\Обучение\Языки программирования\Лекция 1\Пример 2\obj\Debug\net7.0\Пример 2.csproj.AssemblyReference.cache
+C:\Users\alexs\Documents\Обучение\Языки программирования\Лекция 1\Пример 2\obj\Debug\net7.0\Пример 2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alexs\Documents\Обучение\Языки программирования\Лекция 1\Пример 2\obj\Debug\net7.0\Пример 2.AssemblyInfoInputs.cache
+C:\Users\alexs\Documents\Обучение\Языки программирования\Лекция 1\Пример 2\obj\Debug\net7.0\Пример 2.AssemblyInfo.cs
+C:\Users\alexs\Documents\Обучение\Языки программирования\Лекция 1\Пример 2\obj\Debug\net7.0\Пример 2.csproj.CoreCompileInputs.cache
+C:\Users\alexs\Documents\Обучение\Языки программирования\Лекция 1\Пример 2\obj\Debug\net7.0\Пример 2.dll
+C:\Users\alexs\Documents\Обучение\Языки программирования\Лекция 1\Пример 2\obj\Debug\net7.0\refint\Пример 2.dll
+C:\Users\alexs\Documents\Обучение\Языки программирования\Лекция 1\Пример 2\obj\Debug\net7.0\Пример 2.pdb
+C:\Users\alexs\Documents\Обучение\Языки программирования\Лекция 1\Пример 2\obj\Debug\net7.0\Пример 2.genruntimeconfig.cache
+C:\Users\alexs\Documents\Обучение\Языки программирования\Лекция 1\Пример 2\obj\Debug\net7.0\ref\Пример 2.dll
